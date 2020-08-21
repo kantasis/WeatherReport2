@@ -1,3 +1,2 @@
 /build
-/src/main/res/values/private_*
-/src/main/res/*
+/src/main/res
